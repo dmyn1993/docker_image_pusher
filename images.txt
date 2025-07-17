@@ -1,1 +1,4 @@
 bboehmke/pebble-dev
+redis:latest
+php:apache
+mysql:latest
